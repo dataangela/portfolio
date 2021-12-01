@@ -1,0 +1,19 @@
+a{
+  text-decoration:none;
+  color:inherit;
+}
+.nav{
+  display:flex;gap:3rem; 
+  list-style-type: none;
+}
+
+article{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+img{
+  max-width:300px;
+  width:100%;
+}
